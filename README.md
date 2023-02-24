@@ -1,2 +1,0 @@
-# greener-thumb
-Plant care
