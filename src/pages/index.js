@@ -1,5 +1,5 @@
 function HomePage() {
-  return <div>Welcome to Greener Thumb!</div>
+  return <h1>Welcome to Greener Thumb!</h1>
 }
 
 export default HomePage
