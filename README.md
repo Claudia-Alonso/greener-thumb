@@ -1,5 +1,7 @@
-# greener-thumb
-Plant care
+# Greener Thumb
+Plant care site
+
+[Trello board](https://trello.com/b/LrZi6i9x/greener-thumb)
 
 
 
